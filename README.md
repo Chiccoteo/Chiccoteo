@@ -1,12 +1,8 @@
-![code](https://user-images.githubusercontent.com/86018776/184802131-fe4cbd65-d9ba-4595-84db-2183e348946e.gif)
-
-
-### Hi there 👋, I'm Ramziddin😉. My friends call me Chicco😄
+## Hi there 👋, I'm Ramziddin😉. My friends call me Chicco😄
 
 I am Java Backend Developer and freelance software engineer from Uzbekistan. My passion for software is dreaming up ideas and realizing them with elegant interfaces. I care deeply about the experience, architecture, and code quality of the things I build.
 
-I am also an open source enthusiast and servant. I have learned a lot from the open source community and I love how collaboration and knowledge sharing happen through open source.
-
+I am also an open source enthusiast and servant. I have learned a lot from the open source community and I love how collaboration and knowledge sharing happen through open source. 
 
 <!--
 **chiccoteo/chiccoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
